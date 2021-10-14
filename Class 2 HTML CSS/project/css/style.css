@@ -1,0 +1,31 @@
+#sakibDiv {
+  background: green;
+  margin-top: 50px;
+  padding-top: 50px;
+  font-size: 48px;
+  font-weight: lighter;
+  color: rgb(101, 170, 211);
+  width: 50%;
+  float: right;
+}
+
+/* #sakibDiv a {
+  color: red;
+  text-decoration: none;
+} */
+
+.ancor {
+  color: lawngreen;
+}
+
+table,
+th,
+td {
+  padding: 20px;
+  width: 100%;
+  border: 1px dashed red;
+}
+
+td:last-child {
+  font-weight: bolder;
+}
