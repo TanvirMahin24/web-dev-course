@@ -1,0 +1,7 @@
+.fab {
+  color: red;
+  font-size: 48px;
+}
+.fab:hover {
+  color: blue;
+}
