@@ -1,0 +1,8 @@
+.custom_button {
+  border-radius: 0px !important;
+  background: rgb(1, 105, 27) !important;
+}
+
+body {
+  overflow-x: hidden;
+}
